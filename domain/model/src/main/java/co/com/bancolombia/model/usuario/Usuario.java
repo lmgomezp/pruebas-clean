@@ -8,4 +8,6 @@ public class Usuario {
     private String name;
     private Integer age;
 
+    private String nameTwo;
+
 }
